@@ -15,6 +15,11 @@ Project ini dirancang untuk dijalankan di **Google Colab**.
 3. Jalankan cell secara berurutan dari atas ke bawah. Pada cell upload, pilih file `kaggle.json` saat diminta.
 4. Dataset akan otomatis terunduh dan terekstrak ke folder kerja.
 5. Lanjutkan menjalankan seluruh cell hingga tahap training, evaluasi, dan pengujian model dengan gambar sendiri.
+
+## Rekomendasi
+Gunakan Jupyter Notebook atau Google Colab untuk menjalankan program.
+[Pelajari di sini](https://colab.research.google.com/notebooks/intro.ipynb?hl=id)
+
 ## Requirements
 
 Lihat `requirements.txt`. Sebagian besar library (TensorFlow, Keras, scikit-learn, dll.) sudah tersedia secara default di Google Colab. 
